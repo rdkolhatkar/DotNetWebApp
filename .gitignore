@@ -1,0 +1,54 @@
+## Build output
+bin/
+obj/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Visual Studio folders
+.vs/
+.vscode/
+
+## ASP.NET Core
+appsettings.Development.json
+
+## Logs
+*.log
+
+## Rider / JetBrains
+.idea/
+
+## Publish output
+publish/
+
+## OS files
+.DS_Store
+Thumbs.db
+
+## Build output
+bin/
+obj/
+
+## IDE files
+.vs/
+*.user
+*.suo
+
+## Visual Studio Code (optional)
+.vscode/
+
+## ASP.NET Core user secrets / environment config
+appsettings.Development.json
+
+## Frontend libraries (VERY IMPORTANT)
+wwwroot/lib/
+
+## Logs
+*.log
+
+## OS files
+.DS_Store
+Thumbs.db
